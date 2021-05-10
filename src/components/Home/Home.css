@@ -7,8 +7,12 @@
 }
 
 .home {
-    background-color: #FEFEFE;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    box-shadow: -10px 10px 25px rgba(0, 0, 0, 0.08);
+    /* color: #56CFDA; */
     min-width: 70%;
-    min-height: 70vh;
     margin: 1.5rem;
 }
